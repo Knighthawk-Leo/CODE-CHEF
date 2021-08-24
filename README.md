@@ -3,3 +3,4 @@
 
 ### AUGUST CHALLENGES
 <a href='https://github.com/Knighthawk-Leo/CODE-CHEF/tree/main/AUGUST%20LONG%20CHALLENGE'>LONG CHALLENGE</a>
+<a href='https://github.com/Knighthawk-Leo/CODE-CHEF/tree/main/COOK-OFF'>COOK-OFF CHALLENGE </a>
